@@ -1,2 +1,4 @@
 # dotnvim
-Put this file in **~/.config/nvim/**
+* gh repo clone dotmobo/dotnvim
+* vim
+* :PlugInstall
